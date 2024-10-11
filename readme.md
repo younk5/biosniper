@@ -1,4 +1,4 @@
-# Twitter Bio Checker
+# Twitter Bio Checker (DESATUALIZADA)
 
 ## Descrição
 
@@ -64,5 +64,4 @@ Este projeto é uma aplicação de desktop construída com **Tkinter** que permi
 3. Clique em "Verificar Bio" e a bio do usuário será exibida na tela.
 4. A aplicação continuará verificando automaticamente se a bio muda a cada 10 segundos.
 
-### Exemplo de Output
 
